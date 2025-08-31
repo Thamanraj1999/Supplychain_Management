@@ -96,5 +96,7 @@ This supply chain dashboard highlights revenue, quality, suppliers, logistics, a
 4. Use high profit margins to reinvest in supply chain optimization  
 5. Expand production of **top-performing SKUs**  
 
+<img width="1266" height="719" alt="image" src="https://github.com/user-attachments/assets/c443488c-ef49-4c10-a521-ee77de8f6cef" />
 
+<img width="1286" height="730" alt="image" src="https://github.com/user-attachments/assets/cb5d5f23-749a-4e74-9bce-56d05e180425" />
 
